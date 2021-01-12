@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20201221</CreaDate><CreaTime>15332800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20201221" Time="153328">RasterToPolygon HR_LULC "C:\Users\FireFly\Downloads\haryana\Meeting 14122020\LULC\HR_LULC_Multi.shp" NO_SIMPLIFY VALUE MULTIPLE_OUTER_PART #</Process></lineage></DataProperties></Esri></metadata>
